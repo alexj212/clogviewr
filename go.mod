@@ -1,8 +1,7 @@
 module github.com/alexj212/clogviewr
 
-go 1.17
+go 1.18
 
-replace github.com/alexj212/gox => ../gox
 
 require (
 	code.rocketnine.space/tslocum/cbind v0.1.5
@@ -11,7 +10,7 @@ require (
 	github.com/araddon/dateparse v0.0.0-20210429162001-6b43995a97de
 	github.com/dlclark/regexp2 v1.4.0
 	github.com/gdamore/tcell/v2 v2.4.1-0.20210828201608-73703f7ed490
-	golang.org/x/sys v0.0.0-20220318055525-2edf467146b5 // indirect
+	golang.org/x/sys v0.0.0-20220502124256-b6088ccd6cba // indirect
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
 
 )
@@ -26,5 +25,6 @@ require (
 	github.com/potakhov/cache v0.0.1 // indirect
 	github.com/potakhov/loge v0.2.0 // indirect
 	github.com/rivo/uniseg v0.2.0 // indirect
+	golang.org/x/crypto v0.0.0-20220427172511-eb4f295cb31f // indirect
 	golang.org/x/text v0.3.7 // indirect
 )
