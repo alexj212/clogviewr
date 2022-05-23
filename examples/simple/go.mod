@@ -4,6 +4,7 @@ go 1.18
 
 require (
 	github.com/alexj212/gox v0.0.0-20220523001803-07a3962f90e9 // indirect
+	github.com/araddon/dateparse v0.0.0-20210429162001-6b43995a97de // indirect
 	github.com/gdamore/encoding v1.0.0 // indirect
 	github.com/gdamore/tcell/v2 v2.5.1 // indirect
 	github.com/lucasb-eyer/go-colorful v1.2.0 // indirect
