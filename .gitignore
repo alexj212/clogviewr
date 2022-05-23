@@ -1,7 +1,11 @@
-.vscode/launch.json
-*.log
-/.idea
-go.sum
-go.work.sum
+.DS_Store
+.idea
+.envrc
+.env
 go.work
-bin
+go.work.sum
+go.sum
+bin/
+dist/
+tmp/
+venv/
